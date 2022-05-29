@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class Prob_15650{
+class Main{
 
     private static List<Integer> list = new ArrayList<>();
     public static void main(String[] args){
